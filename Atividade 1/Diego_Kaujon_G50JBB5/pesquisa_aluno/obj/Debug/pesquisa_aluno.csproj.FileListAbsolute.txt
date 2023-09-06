@@ -1,0 +1,7 @@
+C:\Users\Usuario\Desktop\Pasta de pastas com mais pastas dentro\Diego_Kaujon_G50JBB5\pesquisa_aluno\bin\Debug\pesquisa_aluno.exe.config
+C:\Users\Usuario\Desktop\Pasta de pastas com mais pastas dentro\Diego_Kaujon_G50JBB5\pesquisa_aluno\bin\Debug\pesquisa_aluno.exe
+C:\Users\Usuario\Desktop\Pasta de pastas com mais pastas dentro\Diego_Kaujon_G50JBB5\pesquisa_aluno\bin\Debug\pesquisa_aluno.pdb
+C:\Users\Usuario\Desktop\Pasta de pastas com mais pastas dentro\Diego_Kaujon_G50JBB5\pesquisa_aluno\obj\Debug\pesquisa_aluno.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\Pasta de pastas com mais pastas dentro\Diego_Kaujon_G50JBB5\pesquisa_aluno\obj\Debug\pesquisa_aluno.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Pasta de pastas com mais pastas dentro\Diego_Kaujon_G50JBB5\pesquisa_aluno\obj\Debug\pesquisa_aluno.exe
+C:\Users\Usuario\Desktop\Pasta de pastas com mais pastas dentro\Diego_Kaujon_G50JBB5\pesquisa_aluno\obj\Debug\pesquisa_aluno.pdb
